@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# ビルド成果物
+build/
+dist/
+*.egg-info/
+*.spec.bak
+
+# 設定ファイル（個人情報が含まれる可能性）
+config.json
+
+# ログファイル
+*.log
+organizer.log
+
+# アイコンプレビュー
+icon_preview.png
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
